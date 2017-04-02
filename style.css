@@ -1,0 +1,29 @@
+.e-mail-background{
+  background-color: rgb(240,240,240);
+  height:100vh;
+}
+h1,
+p{
+  color:rgb(97,97,97);
+}
+.e-mail-container{
+  max-width:800px;
+}
+#main-image{
+  height:auto;
+  width:100%;
+  padding:10px 5px;
+}
+.pre-header{
+  color:rgb(240,240,240);
+}
+.link-to-action a {
+  width:300px;
+  background-color:rgb(0,135,135);
+  color:white;
+  text-decoration: none;
+  padding:20px;
+  display:inline-block;
+  margin:20px;
+  box-shadow: 1px 4px 16px rgba(69,69,69,0.5);
+}
